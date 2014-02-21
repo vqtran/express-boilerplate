@@ -1,0 +1,17 @@
+{
+  "name": "express-boilerplate",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "3.x.x",
+    "connect-assets": "3.x.x",
+    "uglify-js": "*",
+    "csso": "*",
+    "less": "*",
+    "ejs": "*",
+    "ejs-locals": "*"
+  },
+  "engines": {
+    "node": "0.11.x",
+    "npm": "1.3.x"
+  }
+}
